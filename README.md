@@ -29,11 +29,10 @@ Denali AI operates on a simple, one-time credit system. You buy credits and use 
 
 **Need more credits?** You can easily top up your balance. Each file rename costs 1 credit, and each AI-generated frontmatter change (e.g., adding a title or an author) also costs 1 credit.
 
-* **25 Credits (USD 0.99)** - Buy Here
-* **500 Credits (USD 9.99)** - Buy Here
-* **25 Credits (INR 079)** - Buy Here
-* **500 Credits (INR 799)** - Buy Here
-
+* **[25 Credits (USD 0.99)](https://plu.ug/l/42zqgikhe)** - (Paypal, VISA, MC, AMEX, Stripe)
+* **[500 Credits (USD 9.99)](https://plu.ug/l/pd2q4c8hr)** - (Paypal, VISA, MC, AMEX, Stripe)
+* **[25 Credits (INR 079)](https://plu.ug/l/nzlodu-hy)** - (Razorpay, UPI)
+* **[500 Credits (INR 799)](https://plu.ug/l/8mg8kujhl)** - (Razorpay, UPI)
 ---
 
 # What is the output?
@@ -279,6 +278,14 @@ The plugin's behavior can be extensively customized through the settings pane.
 * **Enable Logs**: Toggles the display of logs in the modal window and the console.
 * **Save Logs to File**: Saves all renaming actions to a log file within the backup folder.
 * **Log Window Close Delay**: Sets the number of seconds the log window will remain open after a process is complete.
+
+**Need more credits?** You can easily top up your balance. Each file rename costs 1 credit, and each AI-generated frontmatter change (e.g., adding a title or an author) also costs 1 credit.
+
+* **[25 Credits (USD 0.99)](https://plu.ug/l/42zqgikhe)** - (Paypal, VISA, MC, AMEX, Stripe)
+* **[500 Credits (USD 9.99)](https://plu.ug/l/pd2q4c8hr)** - (Paypal, VISA, MC, AMEX, Stripe)
+* **[25 Credits (INR 079)](https://plu.ug/l/nzlodu-hy)** - (Razorpay, UPI)
+* **[500 Credits (INR 799)](https://plu.ug/l/8mg8kujhl)** - (Razorpay, UPI)
+
 
 ---
 # obsidian-denali-ai-file-renamer-front-matter
