@@ -210,13 +210,13 @@ Denali AI is designed for simplicity. Once installed and configured, you have tw
 ### 🎙️ Testimonials
 
 "This tool is a game-changer! I used to dread organizing my notes after a big project. Now, I just run the batch rename and everything is perfectly organized. The AI suggestions are incredibly accurate!"
-— **Sarah K., Project Manager at a Tech Startup**
+— **Sarah K., Project Manager at a GoDaddy**
 
 "As a freelance writer, my folders were a mess of rough drafts and final versions. Denali AI not only cleans up the file names but also adds useful tags to my notes, making it so much easier to find and reference old work."
 — **Michael R., Freelance Writer**
 
 "I've tried a dozen different renaming tools, but none of them had the intelligence of Denali AI. It's like having a personal assistant for my digital library. The `addAlias` feature alone has saved me from so many broken links."
-— **Emily C., UX Designer at a Digital Agency**
+— **Emily C., UX Designer at a Intuit**
 
 ---
 
