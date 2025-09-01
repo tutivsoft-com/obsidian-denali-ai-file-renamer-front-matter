@@ -230,6 +230,9 @@ Denali AI is designed for simplicity. Once installed and configured, you have tw
 
 ---
 
+[Denali AI - Youtube](https://www.youtube.com/watch?v=PXSjbXVj3DE)
+
+
 ### ⚙️ Settings & Customization
 
 The plugin's behavior can be extensively customized through the settings pane.
