@@ -5,7 +5,8 @@
 	"minAppVersion": "0.0.3",
 	"description": "Rename notes and enrich front matter - concise, human-readable, keyword-rich. Auto populate title, tags, summary, and more from your note's content.",
 	"author": "TutivSoft",
-	"authorUrl": "https://github.com/tutivsoft-com/obsidian-denali-ai-file-renamer-front-matter/",
+	"authorUrl": "https://tutivsoft.com",
 	"fundingUrl": "https://plu.ug/l/pd2q4c8hr",
 	"isDesktopOnly": false
+
 }
