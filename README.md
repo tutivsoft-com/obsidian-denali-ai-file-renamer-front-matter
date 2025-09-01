@@ -3,6 +3,16 @@
 Denali AI is a groundbreaking plugin that leverages the power of Artificial Intelligence to bring intelligent automation to your file management workflow. In today's digital world, our notes and documents are the bedrock of our knowledge, but they often become a tangled mess of generic or confusing names like "Untitled 2.md" or "My_Project_Final_v3.md". This is where Denali AI steps in. It goes beyond simple automation by analyzing the actual content of your files to suggest not just a descriptive name, but also rich, meaningful metadata, creating a truly smart and self-organizing knowledge base. Without AI, this level of contextual understanding is simply not possible; you'd be stuck with rigid, rule-based systems that can't comprehend nuance. Denali AI transforms your digital chaos into a structured, searchable, and elegant system, freeing you to focus on creating, not organizing.
 
 ---
+
+## Before and After
+### Before
+<img width="929" height="719" alt="image" src="https://github.com/user-attachments/assets/73e0e7e4-3a67-41d0-abe4-3f5a4d01daa4" />
+### After
+<img width="1217" height="930" alt="image" src="https://github.com/user-attachments/assets/7fd4df72-fafd-49b6-90fe-fa53f403af7d" />
+### Settings
+<img width="1068" height="889" alt="image" src="https://github.com/user-attachments/assets/cfef275b-86f3-4d1f-8b7a-a537af60f220" />
+More Screenshots: https://github.com/tutivsoft-com/obsidian-denali-ai-file-renamer-front-matter/tree/main/Asset
+
 ### Full Demonstration Video in YOUTUBE
 Please visit [Denali AI - Youtube](https://www.youtube.com/watch?v=PXSjbXVj3DE)
 
