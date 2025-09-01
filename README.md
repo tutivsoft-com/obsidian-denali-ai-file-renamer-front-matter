@@ -1,8 +1,9 @@
 # 📂 Denali AI File Renamer: Your Files, Evolved
 
-Denali AI is a groundbreaking plugin that leverages the power of Artificial Intelligence to bring intelligent automation to your file management workflow. In today's digital world, our notes and documents are the bedrock of our knowledge, but they often become a tangled mess of generic or confusing names like "Untitled 2.md" or "My_Project_Final_v3.docx". This is where Denali AI steps in. It goes beyond simple automation by analyzing the actual content of your files to suggest not just a descriptive name, but also rich, meaningful metadata, creating a truly smart and self-organizing knowledge base. Without AI, this level of contextual understanding is simply not possible; you'd be stuck with rigid, rule-based systems that can't comprehend nuance. Denali AI transforms your digital chaos into a structured, searchable, and elegant system, freeing you to focus on creating, not organizing.
+Denali AI is a groundbreaking plugin that leverages the power of Artificial Intelligence to bring intelligent automation to your file management workflow. In today's digital world, our notes and documents are the bedrock of our knowledge, but they often become a tangled mess of generic or confusing names like "Untitled 2.md" or "My_Project_Final_v3.md". This is where Denali AI steps in. It goes beyond simple automation by analyzing the actual content of your files to suggest not just a descriptive name, but also rich, meaningful metadata, creating a truly smart and self-organizing knowledge base. Without AI, this level of contextual understanding is simply not possible; you'd be stuck with rigid, rule-based systems that can't comprehend nuance. Denali AI transforms your digital chaos into a structured, searchable, and elegant system, freeing you to focus on creating, not organizing.
 
 ---
+
 
 ### ✨ Real, High-Value Benefits
 
@@ -33,6 +34,159 @@ Denali AI operates on a simple, one-time credit system. You buy credits and use 
 * **25 Credits (INR 079)** - Buy Here
 * **500 Credits (INR 799)** - Buy Here
 
+---
+
+# What is the output?
+### 1\. Technical Notes & Meeting Summary
+
+This example demonstrates how Denali AI can convert unstructured meeting notes into a clearly named and categorized file, ideal for technical projects and collaboration.
+
+#### **Before**
+
+**Filename:** `Meeting-Notes.md`
+
+**File Content:**
+
+```markdown
+# Team Sync Meeting Notes - May 15, 2025
+
+Attendees: John, Sarah, Emily
+
+- Discussed the progress of the V2 API migration.
+- Node.js service for user authentication is complete.
+- Need to finalize the new database schemas for the new microservices architecture.
+- John to lead the integration of the new payment gateway.
+- AI project team to provide an update next week.
+- Action items:
+  - Finalize database schema (John)
+  - Start work on payment gateway integration (Emily)
+```
+
+-----
+
+#### **After**
+
+**Filename:** `api-migration-project-v2-notes.md`
+
+**File Content:**
+
+```markdown
+---
+title: Api Migration Project V2 Notes
+aliases:
+  - Meeting-Notes.md
+created: 2025-05-15 10:00
+modified: 2025-05-15 10:05
+status: draft
+tags:
+  - v2-api
+  - microservices
+  - nodejs
+  - database-migration
+  - payment-gateway
+project: V2 API Migration
+---
+# Team Sync Meeting Notes - May 15, 2025
+
+Attendees: John, Sarah, Emily
+
+- Discussed the progress of the V2 API migration.
+- Node.js service for user authentication is complete.
+- Need to finalize the new database schemas for the new microservices architecture.
+- John to lead the integration of the new payment gateway.
+- AI project team to provide an update next week.
+- Action items:
+  - Finalize database schema (John)
+  - Start work on payment gateway integration (Emily)
+```
+
+### 2\. Personal Journal Entry
+
+This example shows how the plugin can add structure and context to personal or reflective notes, making them easier to browse and search later.
+
+#### **Before**
+
+**Filename:** `New Text Document.md`
+
+**File Content:**
+
+```markdown
+It's been a few weeks since I started this new morning routine. I've been getting up at 6 AM every day to journal and meditate. The feeling of starting the day with gratitude has been really positive. I want to keep this up and maybe add a short workout session next month. The key is to be consistent with my daily habits.
+```
+
+-----
+
+#### **After**
+
+**Filename:** `daily-journal-reflection-on-morning-routine.md`
+
+**File Content:**
+
+```markdown
+---
+title: Daily Journal Reflection On Morning Routine
+aliases:
+  - New Text Document.md
+created: 2025-09-01 07:06
+modified: 2025-09-01 07:07
+status: draft
+tags:
+  - journaling
+  - personal-habits
+  - morning-routine
+  - gratitude
+  - self-reflection
+author: My Daily Reflections
+topic: Personal Growth
+---
+It's been a few weeks since I started this new morning routine. I've been getting up at 6 AM every day to journal and meditate. The feeling of starting the day with gratitude has been really positive. I want to keep this up and maybe add a short workout session next month. The key is to be consistent with my daily habits.
+```
+
+### 3\. Research Summary
+
+This example highlights the plugin's ability to categorize and tag research material, making it simple to organize academic or work-related content.
+
+#### **Before**
+
+**Filename:** `research-doc-draft.md`
+
+**File Content:**
+
+```markdown
+## The Role of AI in Healthcare Diagnostics
+
+A new paper from the Institute of Medical Technology suggests that neural networks are outperforming traditional methods in early disease detection. The study analyzed millions of patient data points from hospitals in Europe and North America. The key takeaway is the potential for AI-driven systems to improve diagnostic accuracy, but it also raises new questions about data privacy and the regulation of AI in medical practice.
+```
+
+-----
+
+#### **After**
+
+**Filename:** `ai-in-healthcare-diagnostics-research-note.md`
+
+**File Content:**
+
+```markdown
+---
+title: Ai In Healthcare Diagnostics Research Note
+aliases:
+  - research-doc-draft.md
+created: 2025-09-01 07:08
+modified: 2025-09-01 07:09
+status: draft
+tags:
+  - ai
+  - healthcare
+  - diagnostics
+  - neural-networks
+  - research
+project: AI in Healthcare
+topic: Artificial Intelligence
+---
+## The Role of AI in Healthcare Diagnostics
+
+A new paper from the Institute of Medical Technology suggests that neural networks are outperforming traditional methods in early disease detection. The study analyzed millions of patient data points from hospitals in Europe and North America. The key takeaway is the potential for AI-driven systems to improve diagnostic accuracy, but it also raises new questions about data privacy and the regulation of AI in medical practice.
+```
 ---
 
 ### 🛠️ How to Use
