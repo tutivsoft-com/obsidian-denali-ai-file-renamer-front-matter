@@ -3,6 +3,8 @@
 Denali AI is a groundbreaking plugin that leverages the power of Artificial Intelligence to bring intelligent automation to your file management workflow. In today's digital world, our notes and documents are the bedrock of our knowledge, but they often become a tangled mess of generic or confusing names like "Untitled 2.md" or "My_Project_Final_v3.md". This is where Denali AI steps in. It goes beyond simple automation by analyzing the actual content of your files to suggest not just a descriptive name, but also rich, meaningful metadata, creating a truly smart and self-organizing knowledge base. Without AI, this level of contextual understanding is simply not possible; you'd be stuck with rigid, rule-based systems that can't comprehend nuance. Denali AI transforms your digital chaos into a structured, searchable, and elegant system, freeing you to focus on creating, not organizing.
 
 ---
+### Full Demonstration Video in YOUTUBE
+Please visit [Denali AI - Youtube](https://www.youtube.com/watch?v=PXSjbXVj3DE)
 
 
 ### ✨ Real, High-Value Benefits
@@ -229,8 +231,6 @@ Denali AI is designed for simplicity. Once installed and configured, you have tw
 * **Link Preservation**: The original file name is automatically added as an alias in the frontmatter, ensuring that any existing links to the file remain valid after the rename.
 
 ---
-
-[Denali AI - Youtube](https://www.youtube.com/watch?v=PXSjbXVj3DE)
 
 
 ### ⚙️ Settings & Customization
