@@ -7,10 +7,13 @@ Denali AI is a groundbreaking plugin that leverages the power of Artificial Inte
 ## Before and After
 ### Before
 <img width="929" height="719" alt="image" src="https://github.com/user-attachments/assets/73e0e7e4-3a67-41d0-abe4-3f5a4d01daa4" />
+
 ### After
 <img width="1217" height="930" alt="image" src="https://github.com/user-attachments/assets/7fd4df72-fafd-49b6-90fe-fa53f403af7d" />
+
 ### Settings
 <img width="1068" height="889" alt="image" src="https://github.com/user-attachments/assets/cfef275b-86f3-4d1f-8b7a-a537af60f220" />
+
 More Screenshots: https://github.com/tutivsoft-com/obsidian-denali-ai-file-renamer-front-matter/tree/main/Asset
 
 ### Full Demonstration Video in YOUTUBE
